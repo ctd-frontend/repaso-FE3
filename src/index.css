@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(212, 212, 212);
+  padding-bottom: 1rem;
+}
+
+header h1 {
+  background-image: url('https://img.freepik.com/premium-photo/social-connection-business-communication-network-contacts-blue-background-3d-render_188237-763.jpg');
+  background-position: center;
+  background-size: cover;
+  color: white;
+  text-align: right;
+  padding: 2rem;
+}
+
+nav {
+  border: 2px solid rgb(189, 189, 189);
+  justify-content: center;
+  background-color: white;
+}
+
+section {
+  padding: 1rem;
+  border: 2px solid rgb(189, 189, 189);
+  background-color: rgb(255, 255, 255);
+
+}
+
+.tarjeta {
+  display: flex;
+  justify-content: space-between;
+}
+
+article {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.imagen {
+  width: 10%;
+  margin-right: 2rem;
+}
+
+.imagen img {
+  width: 100%;
+}
